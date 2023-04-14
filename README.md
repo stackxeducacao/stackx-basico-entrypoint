@@ -68,3 +68,5 @@ Por hora é isso!
 
 Até o próximo exercício.
 
+### Alteração solicitada na tarefa CRIAÇÃO DE PERFIL NO GIT
+Criar perfil no GitHub, clonar um repositório da StackX e abrir um PR submetendo uma alteração.
