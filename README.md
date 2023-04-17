@@ -65,6 +65,6 @@ Cole isso em seu terminal e experimente com `git lol`.
 ---
 
 Por hora é isso!
-
+Obrigado(a)
 Até o próximo exercício.
 
