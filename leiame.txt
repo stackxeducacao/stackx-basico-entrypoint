@@ -1,0 +1,5 @@
+Arquivo para documentação do repositório
+
+link do guia de sobrevivência Git/Github
+https://tinyurl.com/bdhbasf8
+
