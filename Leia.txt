@@ -1,0 +1,1 @@
+Arquivo leia do entrypoint da StackX 
