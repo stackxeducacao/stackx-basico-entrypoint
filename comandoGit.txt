@@ -1,0 +1,4 @@
+adicionando novo arquivo para realizaçao da tarefa criaçâo do perfil do github
+criar perfil no github, clonar um repositorio da stackx e abrir um pull request
+ submetendo uma alteração.
+ 
