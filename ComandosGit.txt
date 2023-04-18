@@ -1,6 +1,7 @@
-git init
+Clonar repositório
+git clone "link repositório"
+Abrir o arquivo e fazer as alterações necessárias
+Abrir git bash no diretório clonado
 git add .
 git commit -m "mensagem"
 git push origin main
-
-Arquivo teste

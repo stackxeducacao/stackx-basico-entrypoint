@@ -1,4 +1,4 @@
 Adicionando novo arquivo para realização da tarefa Criação de perfil do GitHub
-Criar perfil no GitHub, clonar um repositório da StackX e abrir um PR submetendo uma alteração.
+Criar perfil no GitHub, clonar um repositório da StackX e abrir um Pull Request submetendo uma alteração.
 
 #Alteração feita para ajudar um aluno com a tarefa.
