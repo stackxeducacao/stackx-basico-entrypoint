@@ -1,0 +1,1 @@
+Arquivo adicionado ao entrypoint da StackX.
