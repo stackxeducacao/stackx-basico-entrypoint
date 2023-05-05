@@ -1,3 +1,5 @@
+<img src="stackx.jpg" align="center" height="200em" width="100%"> 
+
 # StackX - Básico - Ponto de entrada
 
 Olá!
