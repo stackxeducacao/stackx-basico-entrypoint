@@ -1,0 +1,7 @@
+remover arquivos
+$ git rm [file]
+Remove o arquivo do local de trabalho e do stage
+$ git rm –cached [file]
+Remove o arquivo do stage mas não remove do local de trabalho
+$ git mv [nome do arquivo original] [novo nome do arquivo]
+Altera o nome do arquivo local e na area do stage, pronto para comitar.
