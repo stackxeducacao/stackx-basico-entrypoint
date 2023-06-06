@@ -1,10 +1,5 @@
 # StackX - Básico - Ponto de entrada
 
-
-eu faço parte da StackX!! xD
-
-
-
 Olá!
 
 Este é seu primeiro contato com versionamento na StackX educação!
