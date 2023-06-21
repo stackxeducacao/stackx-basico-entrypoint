@@ -1,0 +1,207 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  display: flex;
+  margin: auto;
+  font-family: "Roboto", sans-serif;
+  max-width: 1096px;
+}
+
+.principal {
+  padding: 61px 55px;
+}
+
+.cabecalho {
+  display: flex;
+}
+
+.cabecalho img {
+  width: 125px;
+  height: 125px;
+  border-radius: 50%;
+}
+
+.cabecalho .dados {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-left: 11px;
+  text-align: center;
+  color: #19304f;
+}
+
+.dados p {
+  font-size: 18px;
+  font-weight: 300;
+}
+
+h2 {
+  font-weight: normal;
+  font-size: 30px;
+}
+
+.sobremim {
+  text-align: justify;
+}
+
+.sobremim ul {
+  margin-left: 20px;
+  margin-top: 10px;
+  font-size: 18px;
+  line-height: 30px;
+  font-weight: 300;
+}
+
+.sobremim p {
+  font-size: 18px;
+  line-height: 30px;
+  margin-top: 11px;
+  font-weight: 300;
+}
+
+.titulo {
+  margin-top: 31px;
+}
+
+h3 {
+  color: #19304f;
+  margin-top: 55px;
+  font-weight: normal;
+  font-size: 20px;
+}
+
+.formacao p {
+  margin-left: 20px;
+  margin-top: 0px;
+}
+
+.informacoes {
+  background-color: #19313b;
+  color: #ffffff;
+  max-width: 323px;
+  padding: 152px 70px 0px 60px;
+}
+
+h4 {
+  font-size: 20px;
+  font-weight: normal;
+}
+
+.contato p {
+  font-size: 16px;
+  margin-top: 11px;
+  line-height: 20px;
+  text-align: left;
+  font-weight: 300;
+  margin-bottom: 10px;
+  width: 189px;
+}
+
+.links i {
+  margin-top: 10px;
+  margin-right: 5px;
+  font-size: 30px;
+  color: #ffffff;
+}
+
+.conhecimentos h4 {
+  margin-top: 91px;
+}
+
+.conhecimentos ul {
+  list-style-type: none;
+  margin-top: 3px;
+  font-size: 16px;
+  font-weight: 300;
+}
+
+.conhecimentos li {
+  border-bottom: 2px solid;
+  padding-top: 9px;
+  padding-bottom: 1px;
+  padding-left: 4px;
+}
+
+@media screen and (max-width: 850px) {
+  .container {
+    flex-wrap: wrap;
+  }
+
+  .conhecimentos {
+    max-width: 180px;
+  }
+
+  .informacoes {
+    display: flex;
+    justify-content: space-between;
+    min-width: 100%;
+    padding: 52px;
+  }
+
+  .conhecimentos h4 {
+    margin: 0px;
+  }
+}
+
+@media screen and (max-width: 675px) {
+  .cabecalho img {
+    width: 80px;
+    height: 80px;
+  }
+
+  h2 {
+    font-size: 22px;
+  }
+
+  .dados p {
+    font-size: 14px;
+  }
+
+  .principal {
+    padding: 40px 30px;
+  }
+
+  .sobremim ul,
+  .sobremin p,
+  h4 {
+    font-size: 16px;
+  }
+
+  h3 {
+    font-size: 18px;
+  }
+
+  .informacoes {
+    padding: 30px;
+  }
+
+  .contato p,
+  .conhecimentos ul {
+    font-size: 14px;
+  }
+
+  .contato p {
+    width: 150px;
+  }
+
+  .links i {
+    font-size: 20px;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .informacoes {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .conhecimentos {
+    max-width: 150px;
+    margin-top: 40px;
+  }
+}
