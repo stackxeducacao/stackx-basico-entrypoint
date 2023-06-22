@@ -39,15 +39,14 @@ function commitMessageClickHandler() {
         return
     }
     
-    adicionarMensagem('Stackx', input.value);
+    adicionarMensagem(' ', input.value);
     atualizarHTML();
-    document.getElementById("message-commit").value='';
-}
+    document.getElementById("message-commit").value= '';
 
 // Adicionar um event listener para o botão #message-commit
 var messageCommitButton = document.getElementById("message-commit");
 messageCommitButton.addEventListener("click", commitMessageClickHandler);
-
+}
 
 // --------------------------------
 // Não remover estas linhas
