@@ -1,0 +1,1 @@
+eu queria falar que este comando salvou a minha vida nesse conteudo "rm -f .git/index.lock"
