@@ -1,4 +1,4 @@
-#- Básico - Ponto de entrada
+# Básico - Ponto de entrada
 
 Olá!
 
