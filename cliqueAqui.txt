@@ -1,0 +1,1 @@
+Arquivo destinado a atender o exercicio de Pull Request.
